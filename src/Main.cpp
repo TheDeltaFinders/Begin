@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    int a = 7;
+    int a = 4;
     int b = 9;
     int Sum  = Add(a,b);
     int Product = Multiply(a,b);
